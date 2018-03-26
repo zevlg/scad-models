@@ -45,4 +45,4 @@ module irobot2_plate() {
      }
 }
 
-irobot2_plate();
+rotate([0,-90,0]) irobot2_plate();
